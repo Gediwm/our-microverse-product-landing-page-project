@@ -83,12 +83,13 @@
   
   .buttonStyle {
     margin: 15px 0;
-    background-color: #ffa500;
+    background-color: #ff0a0a;
     cursor: pointer;
     height: 30px;
     width: 110px;
     border: none;
     border-radius: 4px;
+    color: white;
     font-weight: bold;
   }
   
@@ -111,7 +112,7 @@
   
   .symbolParagraph {
     padding: 50px;
-    color: #ffa500;
+    color: #1900ff;
   }
   
   .title {
@@ -143,7 +144,8 @@
   }
   
   .titleBox {
-    background-color: #ddd;
+    background-color: blue;
+    color: white;
     margin: 0;
     padding: 10px 0;
     font-weight: bold;
@@ -167,7 +169,8 @@
   }
   
   .buttonBox {
-    background-color: #ffa500;
+    background-color: #ff0202;
+    color: white;
     border: none;
     padding: 10px 20px;
     border-radius: 4px;
